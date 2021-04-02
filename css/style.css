@@ -1,0 +1,65 @@
+h1 {
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+
+body {
+    margin: 50px;
+}
+
+header {
+    background-color: brown;
+}
+
+p {
+    font-size: 20px;
+}
+
+.img_main {
+    width: 100%;
+}
+
+.car_yellow,
+.car_white,
+.car_grey,
+.car_comby,
+.car_red {
+    border: 3px dashed;
+    padding: 1px;
+    margin-bottom: 10px;
+    display: inline-block;
+    border-style: dashed;
+}
+
+.img_cars {
+    text-align: center;
+    margin: 1.3em;
+}
+
+.text_bold {
+    font-size: 1.1em;
+    font-weight: bolder;
+}
+
+.text_link a {
+    text-decoration: none;
+    font-size: 1.1em;
+}
+
+.text_lorem a {
+    text-decoration: none;
+    font-size: 1.1em;
+}
+
+.text_italic {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.block_bottom {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}
